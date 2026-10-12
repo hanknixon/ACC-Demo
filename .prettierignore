@@ -1,0 +1,6 @@
+.next
+node_modules
+tmp
+public/images
+public/fonts
+next-env.d.ts

@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+coverage/
+tmp/
+*.tsbuildinfo
+.env*
+
+# Original design exports are duplicated in public/ for the site.
+/*.png
+/Mazzard*.otf
